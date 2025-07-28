@@ -1,0 +1,12 @@
+app:
+  name: 'Large Unicode Test App 2'
+  version: '1.0.0'
+  description: 'Приложение для тестирования больших файлов с Unicode'
+
+largeFileTest: true
+unicodeSupport: true
+
+测试配置:
+  debug: true
+  logLevel: info
+  maxFileSize: 10MB
